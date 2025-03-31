@@ -1,0 +1,43 @@
+[{
+  "id": 1,
+  "name": " iPhone 7 Plus",
+  "description": "  Apple, 32GB, RAM: 3GB, iOS13",
+  "price": 17000000,
+  "image": "images/1.jpg",
+  "category_id": 1
+}, {
+  "id": 2,
+  "name": " iPad Pro 2020",
+  "description": "  Apple, 128GB, RAM: 6GB",
+  "price": 37000000,
+  "image": "images/2.jpg",
+  "category_id": 2
+}, {
+  "id": 3,
+  "name": " Galaxy Note 10 Plus",
+  "description": "  Samsung, 64GB, RAML: 6GB",
+  "price": 24000000,
+  "image": "images/3.jpg",
+  "category_id": 1
+},{
+  "id": 4,
+  "name": " Iphone 15 pro max",
+  "description": "  Iphone, 1TB, RAML: 8GB",
+  "price": 30000000,
+  "image": "images/4.jpg",
+  "category_id": 1
+},{
+  "id": 5 ,
+  "name": " Lenovo Tab M10 Gen 3",
+  "description": "  Lenovo, 32MB, RAML: GB",
+  "price": 5300000,
+  "image": "images/5.jpg",
+  "category_id": 2
+},{
+  "id": 6,
+  "name": " Samsung Galaxy Tab S9+ 5G",
+  "description": "  Samsung, 512MB, RAML: 12GB",
+  "price": 30990000,
+  "image": "images/6.jpg",
+  "category_id": 2
+}]

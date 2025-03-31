@@ -1,0 +1,24 @@
+* {
+    font-family: Tahoma;
+}
+
+h1.subject {
+    text-align: center;
+}
+
+body {
+    background-color: lightblue;
+    color: navy; /* hoặc color: darkblue; */
+}
+table.procduct{
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.container{
+    width: 80%;/* Điều chỉnh chiều rộng của bảng */
+    margin: 0 auto;/* Căn giữa theo chiều ngang */
+}
+.flex{
+    display: flex;
+}
